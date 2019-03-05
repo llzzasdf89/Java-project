@@ -1,0 +1,4 @@
+squareFlowerbed,200,200,500,500,1
+squareFlowerbed,200,200,300,300,2
+stripeFlowerbed,200,200,500,300,2,3
+stripeFlowerbed,200,200,300,500,1,2
